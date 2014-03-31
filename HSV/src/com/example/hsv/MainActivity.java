@@ -1,4 +1,4 @@
-package com.example.scrolltest;
+package com.example.hsv;
 
 import android.app.Activity;
 import android.os.Bundle;
